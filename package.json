@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/react-native": "^0.73.0",
+    "@types/react-redux": "^7.1.34",
+    "eslint": "^9.13.0",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "@react-native-community/cli-server-api": "^15.0.1",
+    "axios": "^1.7.7",
+    "expo": "^51.0.38",
+    "react-native-web": "^0.19.13"
+  }
+}
